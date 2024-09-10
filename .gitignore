@@ -61,3 +61,5 @@ robots.txt
 
 *.patch
 *.pdf
+lobe.env
+local/
